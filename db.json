@@ -7,10 +7,6 @@
     {
       "name": "Jay Rosenbaum",
       "id": 2
-    },
-    {
-      "name": "Bernadette Reinger",
-      "id": 3
     }
   ],
   "albums": [
@@ -30,24 +26,44 @@
       "id": 12
     },
     {
-      "userId": 2,
-      "title": "Ergonomic Soft Keyboard",
-      "id": 13
-    },
-    {
-      "userId": 3,
-      "title": "Sleek Wooden Shoes",
-      "id": 14
-    },
-    {
-      "userId": 2,
-      "title": "Handcrafted Plastic Car",
-      "id": 15
-    },
-    {
       "userId": 1,
       "title": "Intelligent Frozen Bacon",
       "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Wooden Cheese",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Soft Pizza",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Practical Soft Mouse",
+      "id": 20
+    },
+    {
+      "userId": 2,
+      "title": "Incredible Fresh Keyboard",
+      "id": 21
+    },
+    {
+      "userId": 2,
+      "title": "Generic Wooden Hat",
+      "id": 22
+    },
+    {
+      "userId": 2,
+      "title": "Licensed Rubber Fish",
+      "id": 23
+    },
+    {
+      "userId": 2,
+      "title": "Handcrafted Plastic Bike",
+      "id": 24
     }
   ],
   "photos": []
