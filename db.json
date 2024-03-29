@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Jay Rosenbaum",
+      "id": 2
+    },
+    {
+      "name": "Bernadette Reinger",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Steel Bacon",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Concrete Gloves",
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "title": "Ergonomic Soft Keyboard",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "title": "Sleek Wooden Shoes",
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "title": "Handcrafted Plastic Car",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Frozen Bacon",
+      "id": 16
+    }
+  ],
+  "photos": []
+}
